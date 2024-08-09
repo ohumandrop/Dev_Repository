@@ -8,13 +8,13 @@
 <body>
     <h1>Hello World</h1>
     <hr>
-    <p>Com o comando p e /p, voce pode escreve 
-        paragrafos e texto sem sim, ou usar hr
-        para descrever um texto
+    <p>Com o comando p e /p, você pode escrever 
+        parágrafos e textos sem fim. Você usar hr
+        para descrever separar o título do parágrafo
     </p>
     <p>
-        Mas se voce quiser quebrar <br> um paragrafos,
-        deve-se usar br
+        Mas voce pode quebrar <br> um parágrafo,
+        deve-se usar br.
     </p>
 </body>
 </html>

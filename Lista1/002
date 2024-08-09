@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>Hello World</h1>
+    <hr>
+    <p>Com o comando p e /p, voce pode escreve 
+        paragrafos e texto sem sim, ou usar hr
+        para descrever um texto
+    </p>
+    <p>
+        Mas se voce quiser quebrar <br> um paragrafos,
+        deve-se usar br
+    </p>
+</body>
+</html>

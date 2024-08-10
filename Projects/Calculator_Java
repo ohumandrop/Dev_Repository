@@ -1,0 +1,28 @@
+import java.util.Scanner;
+
+public class Main {
+    public static void main(String[] args) {
+        Scanner scanner = new Scanner(System.in);
+
+        System.out.print("Somar, subtrair,  multiplicar ou dividir? ");
+        String escolha = scanner.nextLine();
+        System.out.print("Digite o primeiro numero: ");
+        int num1 = scanner.nextInt();
+        System.out.println("Digite o segundo numueo: ");
+        int num2 = scanner.nextInt();
+
+        if (escolha.equals("somar")){
+            System.out.println(num1 + num2);
+        } else if(escolha.equals("subtrair")){
+            System.out.println(num1 - num2);
+        } else if(escolha.equals("multiplicar")){
+            System.out.println(num1 * num2);
+        } else if(escolha.equals("dividir")){
+            System.out.println(num1 / num2);
+        } else {
+            System.out.println("Escolha invalida");
+        }
+        
+       
+    }
+}
